@@ -12,3 +12,17 @@ for python 3.x or
 for python 2.x
   * The default port number is
  `8000`
+
+<br/>
+
+<h2>Angular Notes</h2>
+
+Testing data binding with a 
+`$scope`
+object in the html
+
+`<pre>{{ scopeObjectName | json }} </pre>`
+
+This prints out the data but passes is through a "pipe" function 
+`|`
+.. In this case the json function, formatting the data in json format.

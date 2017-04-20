@@ -26,3 +26,18 @@ object in the html
 This prints out the data but passes is through a "pipe" function 
 `|`
 .. In this case the json function, formatting the data in json format.
+
+<br/>
+<h3>Directives</h3>
+
+------
+
+[Directive cheat sheet](https://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+
+`ng-app`
+defines the app scope
+
+`ng-controller`
+handles the business logic
+
+

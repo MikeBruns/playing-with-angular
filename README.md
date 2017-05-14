@@ -35,7 +35,7 @@ This prints out the data but passes is through a "pipe" function
 [Directive cheat sheet](https://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 
 `ng-app`
-defines the app scope
+defines the app scope, and grabs the DOM objects within this scope
 
 `ng-controller`
 handles the business logic

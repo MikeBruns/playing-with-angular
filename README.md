@@ -1,5 +1,5 @@
 # playing-with-angular
-Just messing around with angular 1
+Just messing around with angular 1.x
 
 <h2>Setting up a simple local web server</h2>
 
